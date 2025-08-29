@@ -1,3 +1,6 @@
 dash
 pandas
+
 plotly
+flask
+gunicorn
